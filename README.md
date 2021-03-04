@@ -89,7 +89,7 @@ router.get("/google", function (req, res) {
 ```
 # **Deployed Link**
 
-https://arjaycaluag.github.io/React-Portfolio/
+https://googlebooks-rc.herokuapp.com/
 # **Authors**
 
 Ron-Arjay Caluag<br>
@@ -102,7 +102,6 @@ Rand Hale<br>
 Sammy Kroner<br>
 [GitHub](https://github.com/sammyk118)
 
-<br>
 The MIT License (MIT)
 
 Copyright (c) 2011-2020 Twitter, Inc.
